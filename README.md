@@ -9,7 +9,7 @@ Po uruchomieniu aplikacji będzie ona szukała rezerwacji według twoich prefere
 3. Pobierz najnowszą wersją python z tego linku `https://www.python.org/downloads/`, a następnie przejdź instalacje.
 4. Pobierz przeglądarke Google Chrome, potrzebna jest do poprawnego działania aplikacji.
 5. Utwórz plik .env i wypełnij jak pokazano w pliku .env.example. (WORDID można znaleźć w pliku words.json w folderze data według preferencji)
-6. Uruchom plik build.bat, a następnie start.bat ( Przy każdym następnym odpaleniu aplikacji tylko start.bat ).
+6. Uruchom plik build.bat, a następnie start.sh ( Przy każdym następnym odpaleniu aplikacji tylko start.sh ).
 
 ## Zmienne env
 
