@@ -16,7 +16,7 @@ def login(driver):
 
 def main():
     project_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    chromedriver_path = os.path.join(project_dir, "utils", "chromedriver.exe")
+    chromedriver_path = os.path.join(project_dir, "utils", "chromedriver")
 
     url = "https://info-car.pl/oauth2/login"
     options = webdriver.ChromeOptions()
